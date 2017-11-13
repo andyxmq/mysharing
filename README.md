@@ -1,1 +1,3 @@
-# mysharing working
+# mysharing 
+working
+out
